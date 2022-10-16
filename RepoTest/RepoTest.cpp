@@ -1,9 +1,9 @@
 
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello Professor Ruse!\n";
+    cout << "Hello Professor Ruse!\n";
 }
 
